@@ -12,7 +12,7 @@ Sania - 2210992246
 
 Software / Platform Used
 Jupyter Notebook
-Python IDE (VS Code)
+Python IDE (PyCharm)
 GitHub (for version control and sharing)
 
 Programming Language Used
