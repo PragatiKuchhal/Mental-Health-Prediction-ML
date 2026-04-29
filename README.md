@@ -1,11 +1,11 @@
-# Mental-Health-Prediction-ML
+# Comparative Evaluation of Machine Learning Models for Early Mental Health Risk Prediction using Workplace Survey Data
 Machine Learning approach for early prediction of mental health conditions using survey data.
 
 Project Title:
 Machine Learning Approach for Early Prediction of Mental Health Conditions
 
 Team Members:
-Pragati - 2210994823
+Pragati Kuchhal - 2210994823
 Chirag Mahajan - 2210991464
 Daksh Gupta - 2210991472
 Sania - 2210992246
@@ -82,3 +82,5 @@ Care options
 Conclusion:
 The system can help in early prediction of mental health issues using machine learning.
 It can be useful for awareness and initial screening.
+
+This paper has been accepted for presentation at the upcoming conference in Chennai, India, scheduled for 09-10th May, 2026. The registration has been done for the research paper. 
